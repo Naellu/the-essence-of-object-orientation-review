@@ -13,7 +13,8 @@
 <br>
 
 ### 목차  
-|chapter|name|
-|:---|:---:|
+|chapter|                                                     name                                                     |
+|:---|:------------------------------------------------------------------------------------------------------------:|
 | 1장 | [협력하는 객체들의 공동체](https://github.com/Naellu/the-essence-of-object-orientation-review/blob/master/chapter01.md) |
+| 2장 |  [이상한 나라의 객체](https://github.com/Naellu/the-essence-of-object-orientation-review/blob/master/chapter02.md)   |
 
